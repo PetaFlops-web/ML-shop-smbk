@@ -1,13 +1,9 @@
 # Speech-to-Text API
 
----
-
 ## Requirements
 
 - Docker & Docker Compose
 - _(optional)_ Python 3.10+ & pip — for local microphone test
-
----
 
 ## Start
 
@@ -22,8 +18,6 @@ Stop Docker compose:
 ```bash
 docker compose down
 ```
-
----
 
 ## API Endpoints
 
@@ -71,8 +65,6 @@ curl http://127.0.0.1:8000/transcripts
 curl http://127.0.0.1:8000/transcripts/transcript_20260710_214328.json
 ```
 
----
-
 ## Microphone Recording Test (Optional)
 
 Script `test_mic.py` records 5 seconds of audio from local microphone and sends it to the API.
@@ -81,8 +73,6 @@ Script `test_mic.py` records 5 seconds of audio from local microphone and sends 
 pip install sounddevice scipy requests
 python test_mic.py
 ```
-
----
 
 ## Project Structure
 
