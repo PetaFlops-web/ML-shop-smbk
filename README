@@ -1,0 +1,98 @@
+# Speech-to-Text API
+
+---
+
+## Syarat
+
+- Docker & Docker Compose
+- _(opsional)_ Python 3.10+ & pip — untuk test rekaman mikrofon lokal
+
+---
+
+## Start
+
+```bash
+docker compose up --build
+```
+
+Base url : `http://127.0.0.1:8000`.
+
+Stop Docker compose:
+
+```bash
+docker compose down
+```
+
+---
+
+## API Endpoints
+
+### `POST /transcribe` — Transkripsi Audio
+
+Upload file audio, dapatkan hasil transkripsi dalam JSON.
+
+**Format yang didukung:** `.wav`, `.mp3`, `.flac`, `.m4a`
+
+**Contoh dengan curl:**
+
+```bash
+curl -X POST http://127.0.0.1:8000/transcribe \
+  -F "file=@rekaman.wav"
+```
+
+**Response:**
+
+```json
+{
+  "status": "success",
+  "json_file": "./output_transcriptions/transcript_20260710_214328.json",
+  "text": "beras 2 kilo harga 25.000",
+  "confidence": -0.2341,
+  "no_speech": 0.0123
+}
+```
+
+| Field | Keterangan |
+|---|---|
+| `text` | Hasil transkripsi teks |
+| `confidence` | jika skor mendekati 0 akurasi model lebih baik |
+| `no_speech` | Probabilitas tidak ada suara 0–1, makin kecil makin bagus |
+
+### `GET /transcripts` Get All transcripts
+
+```bash
+curl http://127.0.0.1:8000/transcripts
+```
+
+### `GET /transcripts/{filename}` Get Detail transcripts
+```bash
+curl http://127.0.0.1:8000/transcripts/transcript_20260710_214328.json
+```
+
+---
+
+## Test Rekaman Mikrofon (Opsional)
+
+Script `test_mic.py` merekam audio 5 detik dari mikrofon lokal lalu mengirim ke API.
+
+```bash
+pip install sounddevice scipy requests
+python test_mic.py
+```
+
+---
+
+## Struktur Proyek
+
+```
+.
+├── compose.yml              # Docker Compose config
+├── test_mic.py              # Script test rekaman mikrofon
+├── ml-service/
+│   ├── Dockerfile
+│   ├── main.py              # FastAPI app endpoint definitions
+│   ├── whisper_audio.py     # Whisper transcription logic
+│   ├── requirements.txt
+│   └── output_transcriptions/  # Saved transcript
+└── output_transcriptions/      # Volume mount dari container
+```

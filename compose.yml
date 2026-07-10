@@ -1,0 +1,16 @@
+services:
+  whisper-api:
+    build: ./ml-service
+    container_name: ml_whisper_service
+    ports:
+      - "8000:8000"
+    volumes:
+      - whisper_data:/app/output_transcriptions
+      - whisper_model_cache:/root/.cache/whisper
+    environment:
+      - TZ=Asia/Jakarta
+    restart: unless-stopped
+
+volumes:
+  whisper_data:
+  whisper_model_cache:

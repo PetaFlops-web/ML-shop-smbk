@@ -1,0 +1,9 @@
+.vscode
+ml-service/__pycache__
+ml-service/.pytest_cache
+ml-service/.mypy_cache
+
+*.wav
+*.mp3
+*.mpeg
+*.m4a
