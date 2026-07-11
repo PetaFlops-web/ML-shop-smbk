@@ -1,0 +1,21 @@
+{
+  "sumber_transkrip": "transcript_20260711_131731.json",
+  "raw_text": "Tadi laku beras setra ramos 1 karong kopi kapal api 5 saset lemi mineral 2 botol 6.000.",
+  "items": [
+    {
+      "item": "beras setra ramos",
+      "qty": 1,
+      "harga": null
+    },
+    {
+      "item": "kiemung api",
+      "qty": 5,
+      "harga": 6000
+    },
+    {
+      "item": "lemi mineral",
+      "qty": 2,
+      "harga": 6000
+    }
+  ]
+}

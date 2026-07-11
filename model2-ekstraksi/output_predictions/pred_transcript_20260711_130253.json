@@ -1,0 +1,16 @@
+{
+  "sumber_transkrip": "transcript_20260711_130253.json",
+  "raw_text": "Bulah pasir 2 kilo 28.000 sama telur ayam 1 kilo",
+  "items": [
+    {
+      "item": "bulah pasir",
+      "qty": 2,
+      "harga": 28000
+    },
+    {
+      "item": "telur ayam",
+      "qty": 1,
+      "harga": null
+    }
+  ]
+}

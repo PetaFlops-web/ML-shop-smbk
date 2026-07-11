@@ -1,0 +1,16 @@
+{
+  "sumber_transkrip": "transcript_20260711_131729.json",
+  "raw_text": "Minyak goreng bimoli 1 liter 19.000 sama gula pasir 2 kilo",
+  "items": [
+    {
+      "item": "minyak goreng bimoli",
+      "qty": 1,
+      "harga": 19000
+    },
+    {
+      "item": "gula pasir",
+      "qty": 2,
+      "harga": null
+    }
+  ]
+}

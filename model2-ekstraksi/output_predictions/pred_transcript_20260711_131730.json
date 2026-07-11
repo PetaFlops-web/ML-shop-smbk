@@ -1,0 +1,16 @@
+{
+  "sumber_transkrip": "transcript_20260711_131730.json",
+  "raw_text": "Telur ayam 1.27.000, Indomie kari ayam 10 bungkus 30.000.",
+  "items": [
+    {
+      "item": "telur ayam",
+      "qty": 1,
+      "harga": 127000
+    },
+    {
+      "item": "indomie kari ayam",
+      "qty": 10,
+      "harga": 30000
+    }
+  ]
+}

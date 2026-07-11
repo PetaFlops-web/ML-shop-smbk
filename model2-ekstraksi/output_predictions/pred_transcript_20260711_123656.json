@@ -1,0 +1,16 @@
+{
+  "sumber_transkrip": "transcript_20260711_123656.json",
+  "raw_text": "Indomie goreng 5 bungkus 15.000, kopi saset 3 bungkus 6.000.",
+  "items": [
+    {
+      "item": "indomie goreng",
+      "qty": 5,
+      "harga": 15000
+    },
+    {
+      "item": "kopi saset",
+      "qty": 3,
+      "harga": 6000
+    }
+  ]
+}
