@@ -5,12 +5,22 @@
     {
       "item": "minyak goreng bimoli",
       "qty": 1,
-      "harga": 19000
+      "harga": 19000,
+      "produk_katalog": "Minyak Goreng Bimoli 1L",
+      "skor_cocok": 1.0,
+      "status_cocok": "perlu_konfirmasi",
+      "kandidat_lain": "Minyak Goreng Bimoli 2L",
+      "sumber_harga": "ucapan"
     },
     {
       "item": "gula pasir",
       "qty": 2,
-      "harga": null
+      "harga": 16752.0,
+      "produk_katalog": "Gula Pasir Gulaku 1kg",
+      "skor_cocok": 1.0,
+      "status_cocok": "perlu_konfirmasi",
+      "kandidat_lain": "Gula Pasir Gunung Mas 1kg",
+      "sumber_harga": "katalog"
     }
   ]
 }

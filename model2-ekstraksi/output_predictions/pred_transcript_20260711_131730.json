@@ -5,12 +5,20 @@
     {
       "item": "telur ayam",
       "qty": 1,
-      "harga": 127000
+      "harga": 127000,
+      "produk_katalog": "Telur Ayam 1kg",
+      "skor_cocok": 1.0,
+      "status_cocok": "yakin",
+      "sumber_harga": "ucapan"
     },
     {
       "item": "indomie kari ayam",
       "qty": 10,
-      "harga": 30000
+      "harga": 30000,
+      "produk_katalog": "Indomie Kari Ayam",
+      "skor_cocok": 1.0,
+      "status_cocok": "yakin",
+      "sumber_harga": "ucapan"
     }
   ]
 }

@@ -5,12 +5,21 @@
     {
       "item": "bulah pasir",
       "qty": 2,
-      "harga": 28000
+      "harga": 28000,
+      "produk_katalog": "Gula Pasir Gulaku 1kg",
+      "skor_cocok": 0.833,
+      "status_cocok": "perlu_konfirmasi",
+      "kandidat_lain": "Gula Pasir Gunung Mas 1kg",
+      "sumber_harga": "ucapan"
     },
     {
       "item": "telur ayam",
       "qty": 1,
-      "harga": null
+      "harga": 29116.0,
+      "produk_katalog": "Telur Ayam 1kg",
+      "skor_cocok": 1.0,
+      "status_cocok": "yakin",
+      "sumber_harga": "katalog"
     }
   ]
 }

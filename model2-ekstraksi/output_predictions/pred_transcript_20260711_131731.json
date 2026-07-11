@@ -5,17 +5,30 @@
     {
       "item": "beras setra ramos",
       "qty": 1,
-      "harga": null
+      "harga": 66699.0,
+      "produk_katalog": "Beras Setra Ramos 5kg",
+      "skor_cocok": 1.0,
+      "status_cocok": "yakin",
+      "sumber_harga": "katalog"
     },
     {
       "item": "kiemung api",
       "qty": 5,
-      "harga": 6000
+      "harga": 6000,
+      "produk_katalog": "Kopi Kapal Api Sachet 10pcs",
+      "skor_cocok": 0.682,
+      "status_cocok": "perlu_konfirmasi",
+      "kandidat_lain": "Korek Api Gas",
+      "sumber_harga": "ucapan"
     },
     {
       "item": "lemi mineral",
       "qty": 2,
-      "harga": 6000
+      "harga": 6000,
+      "produk_katalog": "Air Mineral Le Minerale 600ml",
+      "skor_cocok": 0.833,
+      "status_cocok": "yakin",
+      "sumber_harga": "ucapan"
     }
   ]
 }
