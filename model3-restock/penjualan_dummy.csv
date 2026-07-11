@@ -1,0 +1,1261 @@
+tanggal,nama_produk,qty_terjual
+2026-01-10,Beras 5kg,8
+2026-01-11,Beras 5kg,7
+2026-01-12,Beras 5kg,4
+2026-01-13,Beras 5kg,5
+2026-01-14,Beras 5kg,5
+2026-01-15,Beras 5kg,2
+2026-01-16,Beras 5kg,6
+2026-01-17,Beras 5kg,6
+2026-01-18,Beras 5kg,2
+2026-01-19,Beras 5kg,5
+2026-01-20,Beras 5kg,7
+2026-01-21,Beras 5kg,1
+2026-01-22,Beras 5kg,3
+2026-01-23,Beras 5kg,1
+2026-01-24,Beras 5kg,7
+2026-01-25,Beras 5kg,1
+2026-01-26,Beras 5kg,4
+2026-01-27,Beras 5kg,5
+2026-01-28,Beras 5kg,1
+2026-01-29,Beras 5kg,8
+2026-01-30,Beras 5kg,3
+2026-01-31,Beras 5kg,7
+2026-02-01,Beras 5kg,4
+2026-02-02,Beras 5kg,3
+2026-02-03,Beras 5kg,6
+2026-02-04,Beras 5kg,6
+2026-02-05,Beras 5kg,5
+2026-02-06,Beras 5kg,1
+2026-02-07,Beras 5kg,4
+2026-02-08,Beras 5kg,6
+2026-02-09,Beras 5kg,2
+2026-02-10,Beras 5kg,6
+2026-02-11,Beras 5kg,2
+2026-02-12,Beras 5kg,10
+2026-02-13,Beras 5kg,3
+2026-02-14,Beras 5kg,3
+2026-02-15,Beras 5kg,5
+2026-02-16,Beras 5kg,3
+2026-02-17,Beras 5kg,3
+2026-02-18,Beras 5kg,6
+2026-02-19,Beras 5kg,1
+2026-02-20,Beras 5kg,6
+2026-02-21,Beras 5kg,4
+2026-02-22,Beras 5kg,8
+2026-02-23,Beras 5kg,3
+2026-02-24,Beras 5kg,6
+2026-02-25,Beras 5kg,4
+2026-02-26,Beras 5kg,3
+2026-02-27,Beras 5kg,4
+2026-02-28,Beras 5kg,4
+2026-03-01,Beras 5kg,1
+2026-03-02,Beras 5kg,2
+2026-03-03,Beras 5kg,6
+2026-03-04,Beras 5kg,3
+2026-03-05,Beras 5kg,3
+2026-03-06,Beras 5kg,2
+2026-03-07,Beras 5kg,9
+2026-03-08,Beras 5kg,7
+2026-03-09,Beras 5kg,3
+2026-03-10,Beras 5kg,4
+2026-03-11,Beras 5kg,8
+2026-03-12,Beras 5kg,5
+2026-03-13,Beras 5kg,2
+2026-03-14,Beras 5kg,6
+2026-03-15,Beras 5kg,6
+2026-03-16,Beras 5kg,4
+2026-03-17,Beras 5kg,6
+2026-03-18,Beras 5kg,4
+2026-03-19,Beras 5kg,5
+2026-03-20,Beras 5kg,3
+2026-03-21,Beras 5kg,10
+2026-03-22,Beras 5kg,5
+2026-03-23,Beras 5kg,5
+2026-03-24,Beras 5kg,6
+2026-03-25,Beras 5kg,4
+2026-03-26,Beras 5kg,2
+2026-03-27,Beras 5kg,4
+2026-03-28,Beras 5kg,1
+2026-03-29,Beras 5kg,4
+2026-03-30,Beras 5kg,6
+2026-03-31,Beras 5kg,2
+2026-04-01,Beras 5kg,6
+2026-04-02,Beras 5kg,5
+2026-04-03,Beras 5kg,4
+2026-04-04,Beras 5kg,10
+2026-04-05,Beras 5kg,6
+2026-04-06,Beras 5kg,4
+2026-04-07,Beras 5kg,4
+2026-04-08,Beras 5kg,1
+2026-04-09,Beras 5kg,5
+2026-04-10,Beras 5kg,6
+2026-04-11,Beras 5kg,10
+2026-04-12,Beras 5kg,2
+2026-04-13,Beras 5kg,2
+2026-04-14,Beras 5kg,2
+2026-04-15,Beras 5kg,5
+2026-04-16,Beras 5kg,7
+2026-04-17,Beras 5kg,1
+2026-04-18,Beras 5kg,3
+2026-04-19,Beras 5kg,8
+2026-04-20,Beras 5kg,4
+2026-04-21,Beras 5kg,2
+2026-04-22,Beras 5kg,4
+2026-04-23,Beras 5kg,6
+2026-04-24,Beras 5kg,6
+2026-04-25,Beras 5kg,7
+2026-04-26,Beras 5kg,5
+2026-04-27,Beras 5kg,2
+2026-04-28,Beras 5kg,2
+2026-04-29,Beras 5kg,8
+2026-04-30,Beras 5kg,6
+2026-05-01,Beras 5kg,7
+2026-05-02,Beras 5kg,8
+2026-05-03,Beras 5kg,6
+2026-05-04,Beras 5kg,7
+2026-05-05,Beras 5kg,3
+2026-05-06,Beras 5kg,2
+2026-05-07,Beras 5kg,5
+2026-05-08,Beras 5kg,4
+2026-05-09,Beras 5kg,3
+2026-05-10,Beras 5kg,6
+2026-05-11,Beras 5kg,6
+2026-05-12,Beras 5kg,2
+2026-05-13,Beras 5kg,0
+2026-05-14,Beras 5kg,6
+2026-05-15,Beras 5kg,4
+2026-05-16,Beras 5kg,6
+2026-05-17,Beras 5kg,7
+2026-05-18,Beras 5kg,7
+2026-05-19,Beras 5kg,4
+2026-05-20,Beras 5kg,2
+2026-05-21,Beras 5kg,1
+2026-05-22,Beras 5kg,3
+2026-05-23,Beras 5kg,2
+2026-05-24,Beras 5kg,5
+2026-05-25,Beras 5kg,2
+2026-05-26,Beras 5kg,6
+2026-05-27,Beras 5kg,4
+2026-05-28,Beras 5kg,2
+2026-05-29,Beras 5kg,3
+2026-05-30,Beras 5kg,2
+2026-05-31,Beras 5kg,2
+2026-06-01,Beras 5kg,5
+2026-06-02,Beras 5kg,7
+2026-06-03,Beras 5kg,7
+2026-06-04,Beras 5kg,3
+2026-06-05,Beras 5kg,1
+2026-06-06,Beras 5kg,7
+2026-06-07,Beras 5kg,5
+2026-06-08,Beras 5kg,0
+2026-06-09,Beras 5kg,7
+2026-06-10,Beras 5kg,2
+2026-06-11,Beras 5kg,2
+2026-06-12,Beras 5kg,5
+2026-06-13,Beras 5kg,8
+2026-06-14,Beras 5kg,6
+2026-06-15,Beras 5kg,3
+2026-06-16,Beras 5kg,7
+2026-06-17,Beras 5kg,7
+2026-06-18,Beras 5kg,2
+2026-06-19,Beras 5kg,2
+2026-06-20,Beras 5kg,9
+2026-06-21,Beras 5kg,3
+2026-06-22,Beras 5kg,4
+2026-06-23,Beras 5kg,3
+2026-06-24,Beras 5kg,3
+2026-06-25,Beras 5kg,1
+2026-06-26,Beras 5kg,4
+2026-06-27,Beras 5kg,8
+2026-06-28,Beras 5kg,3
+2026-06-29,Beras 5kg,4
+2026-06-30,Beras 5kg,4
+2026-07-01,Beras 5kg,6
+2026-07-02,Beras 5kg,4
+2026-07-03,Beras 5kg,7
+2026-07-04,Beras 5kg,8
+2026-07-05,Beras 5kg,7
+2026-07-06,Beras 5kg,3
+2026-07-07,Beras 5kg,4
+2026-07-08,Beras 5kg,6
+2026-01-10,Minyak Goreng 1L,9
+2026-01-11,Minyak Goreng 1L,6
+2026-01-12,Minyak Goreng 1L,6
+2026-01-13,Minyak Goreng 1L,10
+2026-01-14,Minyak Goreng 1L,13
+2026-01-15,Minyak Goreng 1L,7
+2026-01-16,Minyak Goreng 1L,5
+2026-01-17,Minyak Goreng 1L,8
+2026-01-18,Minyak Goreng 1L,12
+2026-01-19,Minyak Goreng 1L,11
+2026-01-20,Minyak Goreng 1L,12
+2026-01-21,Minyak Goreng 1L,6
+2026-01-22,Minyak Goreng 1L,8
+2026-01-23,Minyak Goreng 1L,6
+2026-01-24,Minyak Goreng 1L,11
+2026-01-25,Minyak Goreng 1L,9
+2026-01-26,Minyak Goreng 1L,11
+2026-01-27,Minyak Goreng 1L,4
+2026-01-28,Minyak Goreng 1L,1
+2026-01-29,Minyak Goreng 1L,6
+2026-01-30,Minyak Goreng 1L,9
+2026-01-31,Minyak Goreng 1L,7
+2026-02-01,Minyak Goreng 1L,8
+2026-02-02,Minyak Goreng 1L,12
+2026-02-03,Minyak Goreng 1L,7
+2026-02-04,Minyak Goreng 1L,11
+2026-02-05,Minyak Goreng 1L,2
+2026-02-06,Minyak Goreng 1L,8
+2026-02-07,Minyak Goreng 1L,6
+2026-02-08,Minyak Goreng 1L,6
+2026-02-09,Minyak Goreng 1L,7
+2026-02-10,Minyak Goreng 1L,8
+2026-02-11,Minyak Goreng 1L,10
+2026-02-12,Minyak Goreng 1L,5
+2026-02-13,Minyak Goreng 1L,11
+2026-02-14,Minyak Goreng 1L,7
+2026-02-15,Minyak Goreng 1L,10
+2026-02-16,Minyak Goreng 1L,5
+2026-02-17,Minyak Goreng 1L,7
+2026-02-18,Minyak Goreng 1L,8
+2026-02-19,Minyak Goreng 1L,10
+2026-02-20,Minyak Goreng 1L,9
+2026-02-21,Minyak Goreng 1L,8
+2026-02-22,Minyak Goreng 1L,6
+2026-02-23,Minyak Goreng 1L,6
+2026-02-24,Minyak Goreng 1L,9
+2026-02-25,Minyak Goreng 1L,6
+2026-02-26,Minyak Goreng 1L,6
+2026-02-27,Minyak Goreng 1L,5
+2026-02-28,Minyak Goreng 1L,17
+2026-03-01,Minyak Goreng 1L,10
+2026-03-02,Minyak Goreng 1L,6
+2026-03-03,Minyak Goreng 1L,8
+2026-03-04,Minyak Goreng 1L,7
+2026-03-05,Minyak Goreng 1L,12
+2026-03-06,Minyak Goreng 1L,8
+2026-03-07,Minyak Goreng 1L,9
+2026-03-08,Minyak Goreng 1L,8
+2026-03-09,Minyak Goreng 1L,14
+2026-03-10,Minyak Goreng 1L,6
+2026-03-11,Minyak Goreng 1L,6
+2026-03-12,Minyak Goreng 1L,8
+2026-03-13,Minyak Goreng 1L,5
+2026-03-14,Minyak Goreng 1L,11
+2026-03-15,Minyak Goreng 1L,7
+2026-03-16,Minyak Goreng 1L,12
+2026-03-17,Minyak Goreng 1L,7
+2026-03-18,Minyak Goreng 1L,12
+2026-03-19,Minyak Goreng 1L,4
+2026-03-20,Minyak Goreng 1L,7
+2026-03-21,Minyak Goreng 1L,11
+2026-03-22,Minyak Goreng 1L,5
+2026-03-23,Minyak Goreng 1L,6
+2026-03-24,Minyak Goreng 1L,9
+2026-03-25,Minyak Goreng 1L,7
+2026-03-26,Minyak Goreng 1L,8
+2026-03-27,Minyak Goreng 1L,6
+2026-03-28,Minyak Goreng 1L,11
+2026-03-29,Minyak Goreng 1L,12
+2026-03-30,Minyak Goreng 1L,10
+2026-03-31,Minyak Goreng 1L,12
+2026-04-01,Minyak Goreng 1L,11
+2026-04-02,Minyak Goreng 1L,6
+2026-04-03,Minyak Goreng 1L,11
+2026-04-04,Minyak Goreng 1L,8
+2026-04-05,Minyak Goreng 1L,13
+2026-04-06,Minyak Goreng 1L,9
+2026-04-07,Minyak Goreng 1L,6
+2026-04-08,Minyak Goreng 1L,3
+2026-04-09,Minyak Goreng 1L,11
+2026-04-10,Minyak Goreng 1L,6
+2026-04-11,Minyak Goreng 1L,10
+2026-04-12,Minyak Goreng 1L,10
+2026-04-13,Minyak Goreng 1L,6
+2026-04-14,Minyak Goreng 1L,9
+2026-04-15,Minyak Goreng 1L,8
+2026-04-16,Minyak Goreng 1L,1
+2026-04-17,Minyak Goreng 1L,5
+2026-04-18,Minyak Goreng 1L,13
+2026-04-19,Minyak Goreng 1L,13
+2026-04-20,Minyak Goreng 1L,12
+2026-04-21,Minyak Goreng 1L,6
+2026-04-22,Minyak Goreng 1L,4
+2026-04-23,Minyak Goreng 1L,3
+2026-04-24,Minyak Goreng 1L,5
+2026-04-25,Minyak Goreng 1L,5
+2026-04-26,Minyak Goreng 1L,11
+2026-04-27,Minyak Goreng 1L,4
+2026-04-28,Minyak Goreng 1L,9
+2026-04-29,Minyak Goreng 1L,4
+2026-04-30,Minyak Goreng 1L,7
+2026-05-01,Minyak Goreng 1L,13
+2026-05-02,Minyak Goreng 1L,11
+2026-05-03,Minyak Goreng 1L,14
+2026-05-04,Minyak Goreng 1L,10
+2026-05-05,Minyak Goreng 1L,8
+2026-05-06,Minyak Goreng 1L,10
+2026-05-07,Minyak Goreng 1L,5
+2026-05-08,Minyak Goreng 1L,6
+2026-05-09,Minyak Goreng 1L,5
+2026-05-10,Minyak Goreng 1L,8
+2026-05-11,Minyak Goreng 1L,4
+2026-05-12,Minyak Goreng 1L,9
+2026-05-13,Minyak Goreng 1L,3
+2026-05-14,Minyak Goreng 1L,7
+2026-05-15,Minyak Goreng 1L,8
+2026-05-16,Minyak Goreng 1L,10
+2026-05-17,Minyak Goreng 1L,9
+2026-05-18,Minyak Goreng 1L,6
+2026-05-19,Minyak Goreng 1L,7
+2026-05-20,Minyak Goreng 1L,8
+2026-05-21,Minyak Goreng 1L,3
+2026-05-22,Minyak Goreng 1L,3
+2026-05-23,Minyak Goreng 1L,6
+2026-05-24,Minyak Goreng 1L,12
+2026-05-25,Minyak Goreng 1L,8
+2026-05-26,Minyak Goreng 1L,6
+2026-05-27,Minyak Goreng 1L,4
+2026-05-28,Minyak Goreng 1L,8
+2026-05-29,Minyak Goreng 1L,10
+2026-05-30,Minyak Goreng 1L,8
+2026-05-31,Minyak Goreng 1L,8
+2026-06-01,Minyak Goreng 1L,8
+2026-06-02,Minyak Goreng 1L,11
+2026-06-03,Minyak Goreng 1L,6
+2026-06-04,Minyak Goreng 1L,9
+2026-06-05,Minyak Goreng 1L,6
+2026-06-06,Minyak Goreng 1L,12
+2026-06-07,Minyak Goreng 1L,12
+2026-06-08,Minyak Goreng 1L,8
+2026-06-09,Minyak Goreng 1L,4
+2026-06-10,Minyak Goreng 1L,9
+2026-06-11,Minyak Goreng 1L,2
+2026-06-12,Minyak Goreng 1L,12
+2026-06-13,Minyak Goreng 1L,8
+2026-06-14,Minyak Goreng 1L,6
+2026-06-15,Minyak Goreng 1L,9
+2026-06-16,Minyak Goreng 1L,3
+2026-06-17,Minyak Goreng 1L,6
+2026-06-18,Minyak Goreng 1L,3
+2026-06-19,Minyak Goreng 1L,8
+2026-06-20,Minyak Goreng 1L,11
+2026-06-21,Minyak Goreng 1L,8
+2026-06-22,Minyak Goreng 1L,1
+2026-06-23,Minyak Goreng 1L,6
+2026-06-24,Minyak Goreng 1L,4
+2026-06-25,Minyak Goreng 1L,8
+2026-06-26,Minyak Goreng 1L,9
+2026-06-27,Minyak Goreng 1L,7
+2026-06-28,Minyak Goreng 1L,17
+2026-06-29,Minyak Goreng 1L,5
+2026-06-30,Minyak Goreng 1L,10
+2026-07-01,Minyak Goreng 1L,11
+2026-07-02,Minyak Goreng 1L,7
+2026-07-03,Minyak Goreng 1L,9
+2026-07-04,Minyak Goreng 1L,10
+2026-07-05,Minyak Goreng 1L,12
+2026-07-06,Minyak Goreng 1L,7
+2026-07-07,Minyak Goreng 1L,7
+2026-07-08,Minyak Goreng 1L,4
+2026-01-10,Gula Pasir 1kg,7
+2026-01-11,Gula Pasir 1kg,9
+2026-01-12,Gula Pasir 1kg,2
+2026-01-13,Gula Pasir 1kg,5
+2026-01-14,Gula Pasir 1kg,4
+2026-01-15,Gula Pasir 1kg,6
+2026-01-16,Gula Pasir 1kg,2
+2026-01-17,Gula Pasir 1kg,7
+2026-01-18,Gula Pasir 1kg,7
+2026-01-19,Gula Pasir 1kg,4
+2026-01-20,Gula Pasir 1kg,3
+2026-01-21,Gula Pasir 1kg,4
+2026-01-22,Gula Pasir 1kg,6
+2026-01-23,Gula Pasir 1kg,7
+2026-01-24,Gula Pasir 1kg,8
+2026-01-25,Gula Pasir 1kg,11
+2026-01-26,Gula Pasir 1kg,4
+2026-01-27,Gula Pasir 1kg,6
+2026-01-28,Gula Pasir 1kg,9
+2026-01-29,Gula Pasir 1kg,10
+2026-01-30,Gula Pasir 1kg,5
+2026-01-31,Gula Pasir 1kg,7
+2026-02-01,Gula Pasir 1kg,11
+2026-02-02,Gula Pasir 1kg,10
+2026-02-03,Gula Pasir 1kg,6
+2026-02-04,Gula Pasir 1kg,8
+2026-02-05,Gula Pasir 1kg,6
+2026-02-06,Gula Pasir 1kg,5
+2026-02-07,Gula Pasir 1kg,5
+2026-02-08,Gula Pasir 1kg,5
+2026-02-09,Gula Pasir 1kg,5
+2026-02-10,Gula Pasir 1kg,5
+2026-02-11,Gula Pasir 1kg,2
+2026-02-12,Gula Pasir 1kg,8
+2026-02-13,Gula Pasir 1kg,3
+2026-02-14,Gula Pasir 1kg,8
+2026-02-15,Gula Pasir 1kg,6
+2026-02-16,Gula Pasir 1kg,3
+2026-02-17,Gula Pasir 1kg,6
+2026-02-18,Gula Pasir 1kg,10
+2026-02-19,Gula Pasir 1kg,3
+2026-02-20,Gula Pasir 1kg,3
+2026-02-21,Gula Pasir 1kg,3
+2026-02-22,Gula Pasir 1kg,7
+2026-02-23,Gula Pasir 1kg,8
+2026-02-24,Gula Pasir 1kg,7
+2026-02-25,Gula Pasir 1kg,5
+2026-02-26,Gula Pasir 1kg,3
+2026-02-27,Gula Pasir 1kg,8
+2026-02-28,Gula Pasir 1kg,5
+2026-03-01,Gula Pasir 1kg,6
+2026-03-02,Gula Pasir 1kg,2
+2026-03-03,Gula Pasir 1kg,4
+2026-03-04,Gula Pasir 1kg,4
+2026-03-05,Gula Pasir 1kg,3
+2026-03-06,Gula Pasir 1kg,6
+2026-03-07,Gula Pasir 1kg,8
+2026-03-08,Gula Pasir 1kg,7
+2026-03-09,Gula Pasir 1kg,5
+2026-03-10,Gula Pasir 1kg,2
+2026-03-11,Gula Pasir 1kg,2
+2026-03-12,Gula Pasir 1kg,7
+2026-03-13,Gula Pasir 1kg,5
+2026-03-14,Gula Pasir 1kg,4
+2026-03-15,Gula Pasir 1kg,8
+2026-03-16,Gula Pasir 1kg,4
+2026-03-17,Gula Pasir 1kg,6
+2026-03-18,Gula Pasir 1kg,4
+2026-03-19,Gula Pasir 1kg,8
+2026-03-20,Gula Pasir 1kg,5
+2026-03-21,Gula Pasir 1kg,3
+2026-03-22,Gula Pasir 1kg,10
+2026-03-23,Gula Pasir 1kg,5
+2026-03-24,Gula Pasir 1kg,2
+2026-03-25,Gula Pasir 1kg,8
+2026-03-26,Gula Pasir 1kg,5
+2026-03-27,Gula Pasir 1kg,4
+2026-03-28,Gula Pasir 1kg,4
+2026-03-29,Gula Pasir 1kg,4
+2026-03-30,Gula Pasir 1kg,10
+2026-03-31,Gula Pasir 1kg,7
+2026-04-01,Gula Pasir 1kg,6
+2026-04-02,Gula Pasir 1kg,5
+2026-04-03,Gula Pasir 1kg,10
+2026-04-04,Gula Pasir 1kg,13
+2026-04-05,Gula Pasir 1kg,5
+2026-04-06,Gula Pasir 1kg,8
+2026-04-07,Gula Pasir 1kg,5
+2026-04-08,Gula Pasir 1kg,4
+2026-04-09,Gula Pasir 1kg,3
+2026-04-10,Gula Pasir 1kg,6
+2026-04-11,Gula Pasir 1kg,4
+2026-04-12,Gula Pasir 1kg,5
+2026-04-13,Gula Pasir 1kg,6
+2026-04-14,Gula Pasir 1kg,3
+2026-04-15,Gula Pasir 1kg,2
+2026-04-16,Gula Pasir 1kg,8
+2026-04-17,Gula Pasir 1kg,4
+2026-04-18,Gula Pasir 1kg,6
+2026-04-19,Gula Pasir 1kg,5
+2026-04-20,Gula Pasir 1kg,4
+2026-04-21,Gula Pasir 1kg,1
+2026-04-22,Gula Pasir 1kg,5
+2026-04-23,Gula Pasir 1kg,8
+2026-04-24,Gula Pasir 1kg,2
+2026-04-25,Gula Pasir 1kg,7
+2026-04-26,Gula Pasir 1kg,7
+2026-04-27,Gula Pasir 1kg,5
+2026-04-28,Gula Pasir 1kg,3
+2026-04-29,Gula Pasir 1kg,7
+2026-04-30,Gula Pasir 1kg,7
+2026-05-01,Gula Pasir 1kg,4
+2026-05-02,Gula Pasir 1kg,5
+2026-05-03,Gula Pasir 1kg,9
+2026-05-04,Gula Pasir 1kg,8
+2026-05-05,Gula Pasir 1kg,5
+2026-05-06,Gula Pasir 1kg,4
+2026-05-07,Gula Pasir 1kg,6
+2026-05-08,Gula Pasir 1kg,5
+2026-05-09,Gula Pasir 1kg,2
+2026-05-10,Gula Pasir 1kg,6
+2026-05-11,Gula Pasir 1kg,2
+2026-05-12,Gula Pasir 1kg,1
+2026-05-13,Gula Pasir 1kg,8
+2026-05-14,Gula Pasir 1kg,3
+2026-05-15,Gula Pasir 1kg,6
+2026-05-16,Gula Pasir 1kg,8
+2026-05-17,Gula Pasir 1kg,2
+2026-05-18,Gula Pasir 1kg,7
+2026-05-19,Gula Pasir 1kg,6
+2026-05-20,Gula Pasir 1kg,3
+2026-05-21,Gula Pasir 1kg,4
+2026-05-22,Gula Pasir 1kg,9
+2026-05-23,Gula Pasir 1kg,6
+2026-05-24,Gula Pasir 1kg,6
+2026-05-25,Gula Pasir 1kg,8
+2026-05-26,Gula Pasir 1kg,3
+2026-05-27,Gula Pasir 1kg,4
+2026-05-28,Gula Pasir 1kg,6
+2026-05-29,Gula Pasir 1kg,7
+2026-05-30,Gula Pasir 1kg,4
+2026-05-31,Gula Pasir 1kg,3
+2026-06-01,Gula Pasir 1kg,9
+2026-06-02,Gula Pasir 1kg,5
+2026-06-03,Gula Pasir 1kg,3
+2026-06-04,Gula Pasir 1kg,8
+2026-06-05,Gula Pasir 1kg,13
+2026-06-06,Gula Pasir 1kg,5
+2026-06-07,Gula Pasir 1kg,10
+2026-06-08,Gula Pasir 1kg,13
+2026-06-09,Gula Pasir 1kg,5
+2026-06-10,Gula Pasir 1kg,4
+2026-06-11,Gula Pasir 1kg,3
+2026-06-12,Gula Pasir 1kg,5
+2026-06-13,Gula Pasir 1kg,6
+2026-06-14,Gula Pasir 1kg,9
+2026-06-15,Gula Pasir 1kg,10
+2026-06-16,Gula Pasir 1kg,6
+2026-06-17,Gula Pasir 1kg,6
+2026-06-18,Gula Pasir 1kg,9
+2026-06-19,Gula Pasir 1kg,4
+2026-06-20,Gula Pasir 1kg,8
+2026-06-21,Gula Pasir 1kg,2
+2026-06-22,Gula Pasir 1kg,4
+2026-06-23,Gula Pasir 1kg,6
+2026-06-24,Gula Pasir 1kg,10
+2026-06-25,Gula Pasir 1kg,5
+2026-06-26,Gula Pasir 1kg,5
+2026-06-27,Gula Pasir 1kg,5
+2026-06-28,Gula Pasir 1kg,5
+2026-06-29,Gula Pasir 1kg,2
+2026-06-30,Gula Pasir 1kg,3
+2026-07-01,Gula Pasir 1kg,6
+2026-07-02,Gula Pasir 1kg,8
+2026-07-03,Gula Pasir 1kg,4
+2026-07-04,Gula Pasir 1kg,7
+2026-07-05,Gula Pasir 1kg,6
+2026-07-06,Gula Pasir 1kg,1
+2026-07-07,Gula Pasir 1kg,5
+2026-07-08,Gula Pasir 1kg,8
+2026-01-10,Telur 1kg,20
+2026-01-11,Telur 1kg,9
+2026-01-12,Telur 1kg,5
+2026-01-13,Telur 1kg,6
+2026-01-14,Telur 1kg,5
+2026-01-15,Telur 1kg,8
+2026-01-16,Telur 1kg,7
+2026-01-17,Telur 1kg,10
+2026-01-18,Telur 1kg,6
+2026-01-19,Telur 1kg,2
+2026-01-20,Telur 1kg,2
+2026-01-21,Telur 1kg,7
+2026-01-22,Telur 1kg,4
+2026-01-23,Telur 1kg,7
+2026-01-24,Telur 1kg,9
+2026-01-25,Telur 1kg,10
+2026-01-26,Telur 1kg,5
+2026-01-27,Telur 1kg,6
+2026-01-28,Telur 1kg,5
+2026-01-29,Telur 1kg,6
+2026-01-30,Telur 1kg,3
+2026-01-31,Telur 1kg,8
+2026-02-01,Telur 1kg,12
+2026-02-02,Telur 1kg,11
+2026-02-03,Telur 1kg,9
+2026-02-04,Telur 1kg,11
+2026-02-05,Telur 1kg,5
+2026-02-06,Telur 1kg,2
+2026-02-07,Telur 1kg,5
+2026-02-08,Telur 1kg,10
+2026-02-09,Telur 1kg,5
+2026-02-10,Telur 1kg,4
+2026-02-11,Telur 1kg,4
+2026-02-12,Telur 1kg,2
+2026-02-13,Telur 1kg,5
+2026-02-14,Telur 1kg,8
+2026-02-15,Telur 1kg,3
+2026-02-16,Telur 1kg,6
+2026-02-17,Telur 1kg,4
+2026-02-18,Telur 1kg,4
+2026-02-19,Telur 1kg,5
+2026-02-20,Telur 1kg,8
+2026-02-21,Telur 1kg,9
+2026-02-22,Telur 1kg,8
+2026-02-23,Telur 1kg,12
+2026-02-24,Telur 1kg,5
+2026-02-25,Telur 1kg,6
+2026-02-26,Telur 1kg,4
+2026-02-27,Telur 1kg,8
+2026-02-28,Telur 1kg,5
+2026-03-01,Telur 1kg,11
+2026-03-02,Telur 1kg,13
+2026-03-03,Telur 1kg,14
+2026-03-04,Telur 1kg,7
+2026-03-05,Telur 1kg,5
+2026-03-06,Telur 1kg,6
+2026-03-07,Telur 1kg,7
+2026-03-08,Telur 1kg,5
+2026-03-09,Telur 1kg,12
+2026-03-10,Telur 1kg,5
+2026-03-11,Telur 1kg,6
+2026-03-12,Telur 1kg,3
+2026-03-13,Telur 1kg,6
+2026-03-14,Telur 1kg,6
+2026-03-15,Telur 1kg,7
+2026-03-16,Telur 1kg,5
+2026-03-17,Telur 1kg,6
+2026-03-18,Telur 1kg,9
+2026-03-19,Telur 1kg,3
+2026-03-20,Telur 1kg,6
+2026-03-21,Telur 1kg,9
+2026-03-22,Telur 1kg,10
+2026-03-23,Telur 1kg,3
+2026-03-24,Telur 1kg,6
+2026-03-25,Telur 1kg,4
+2026-03-26,Telur 1kg,10
+2026-03-27,Telur 1kg,1
+2026-03-28,Telur 1kg,8
+2026-03-29,Telur 1kg,10
+2026-03-30,Telur 1kg,6
+2026-03-31,Telur 1kg,3
+2026-04-01,Telur 1kg,4
+2026-04-02,Telur 1kg,9
+2026-04-03,Telur 1kg,8
+2026-04-04,Telur 1kg,10
+2026-04-05,Telur 1kg,7
+2026-04-06,Telur 1kg,7
+2026-04-07,Telur 1kg,8
+2026-04-08,Telur 1kg,5
+2026-04-09,Telur 1kg,7
+2026-04-10,Telur 1kg,3
+2026-04-11,Telur 1kg,3
+2026-04-12,Telur 1kg,7
+2026-04-13,Telur 1kg,2
+2026-04-14,Telur 1kg,8
+2026-04-15,Telur 1kg,5
+2026-04-16,Telur 1kg,4
+2026-04-17,Telur 1kg,8
+2026-04-18,Telur 1kg,7
+2026-04-19,Telur 1kg,8
+2026-04-20,Telur 1kg,9
+2026-04-21,Telur 1kg,7
+2026-04-22,Telur 1kg,6
+2026-04-23,Telur 1kg,6
+2026-04-24,Telur 1kg,6
+2026-04-25,Telur 1kg,6
+2026-04-26,Telur 1kg,13
+2026-04-27,Telur 1kg,4
+2026-04-28,Telur 1kg,4
+2026-04-29,Telur 1kg,5
+2026-04-30,Telur 1kg,0
+2026-05-01,Telur 1kg,8
+2026-05-02,Telur 1kg,9
+2026-05-03,Telur 1kg,7
+2026-05-04,Telur 1kg,14
+2026-05-05,Telur 1kg,12
+2026-05-06,Telur 1kg,7
+2026-05-07,Telur 1kg,6
+2026-05-08,Telur 1kg,6
+2026-05-09,Telur 1kg,5
+2026-05-10,Telur 1kg,5
+2026-05-11,Telur 1kg,5
+2026-05-12,Telur 1kg,5
+2026-05-13,Telur 1kg,6
+2026-05-14,Telur 1kg,6
+2026-05-15,Telur 1kg,4
+2026-05-16,Telur 1kg,4
+2026-05-17,Telur 1kg,8
+2026-05-18,Telur 1kg,9
+2026-05-19,Telur 1kg,7
+2026-05-20,Telur 1kg,3
+2026-05-21,Telur 1kg,7
+2026-05-22,Telur 1kg,6
+2026-05-23,Telur 1kg,6
+2026-05-24,Telur 1kg,7
+2026-05-25,Telur 1kg,5
+2026-05-26,Telur 1kg,4
+2026-05-27,Telur 1kg,8
+2026-05-28,Telur 1kg,9
+2026-05-29,Telur 1kg,3
+2026-05-30,Telur 1kg,2
+2026-05-31,Telur 1kg,10
+2026-06-01,Telur 1kg,5
+2026-06-02,Telur 1kg,8
+2026-06-03,Telur 1kg,8
+2026-06-04,Telur 1kg,5
+2026-06-05,Telur 1kg,9
+2026-06-06,Telur 1kg,10
+2026-06-07,Telur 1kg,6
+2026-06-08,Telur 1kg,5
+2026-06-09,Telur 1kg,6
+2026-06-10,Telur 1kg,4
+2026-06-11,Telur 1kg,5
+2026-06-12,Telur 1kg,7
+2026-06-13,Telur 1kg,9
+2026-06-14,Telur 1kg,9
+2026-06-15,Telur 1kg,10
+2026-06-16,Telur 1kg,6
+2026-06-17,Telur 1kg,8
+2026-06-18,Telur 1kg,7
+2026-06-19,Telur 1kg,7
+2026-06-20,Telur 1kg,11
+2026-06-21,Telur 1kg,8
+2026-06-22,Telur 1kg,4
+2026-06-23,Telur 1kg,3
+2026-06-24,Telur 1kg,6
+2026-06-25,Telur 1kg,6
+2026-06-26,Telur 1kg,5
+2026-06-27,Telur 1kg,5
+2026-06-28,Telur 1kg,7
+2026-06-29,Telur 1kg,6
+2026-06-30,Telur 1kg,5
+2026-07-01,Telur 1kg,12
+2026-07-02,Telur 1kg,2
+2026-07-03,Telur 1kg,8
+2026-07-04,Telur 1kg,10
+2026-07-05,Telur 1kg,7
+2026-07-06,Telur 1kg,5
+2026-07-07,Telur 1kg,5
+2026-07-08,Telur 1kg,6
+2026-01-10,Indomie Goreng,26
+2026-01-11,Indomie Goreng,31
+2026-01-12,Indomie Goreng,34
+2026-01-13,Indomie Goreng,30
+2026-01-14,Indomie Goreng,35
+2026-01-15,Indomie Goreng,24
+2026-01-16,Indomie Goreng,23
+2026-01-17,Indomie Goreng,36
+2026-01-18,Indomie Goreng,33
+2026-01-19,Indomie Goreng,30
+2026-01-20,Indomie Goreng,19
+2026-01-21,Indomie Goreng,25
+2026-01-22,Indomie Goreng,19
+2026-01-23,Indomie Goreng,26
+2026-01-24,Indomie Goreng,20
+2026-01-25,Indomie Goreng,35
+2026-01-26,Indomie Goreng,24
+2026-01-27,Indomie Goreng,26
+2026-01-28,Indomie Goreng,24
+2026-01-29,Indomie Goreng,22
+2026-01-30,Indomie Goreng,20
+2026-01-31,Indomie Goreng,40
+2026-02-01,Indomie Goreng,27
+2026-02-02,Indomie Goreng,26
+2026-02-03,Indomie Goreng,33
+2026-02-04,Indomie Goreng,28
+2026-02-05,Indomie Goreng,28
+2026-02-06,Indomie Goreng,32
+2026-02-07,Indomie Goreng,41
+2026-02-08,Indomie Goreng,35
+2026-02-09,Indomie Goreng,25
+2026-02-10,Indomie Goreng,15
+2026-02-11,Indomie Goreng,22
+2026-02-12,Indomie Goreng,24
+2026-02-13,Indomie Goreng,18
+2026-02-14,Indomie Goreng,35
+2026-02-15,Indomie Goreng,30
+2026-02-16,Indomie Goreng,18
+2026-02-17,Indomie Goreng,28
+2026-02-18,Indomie Goreng,31
+2026-02-19,Indomie Goreng,19
+2026-02-20,Indomie Goreng,20
+2026-02-21,Indomie Goreng,33
+2026-02-22,Indomie Goreng,35
+2026-02-23,Indomie Goreng,32
+2026-02-24,Indomie Goreng,27
+2026-02-25,Indomie Goreng,18
+2026-02-26,Indomie Goreng,24
+2026-02-27,Indomie Goreng,29
+2026-02-28,Indomie Goreng,28
+2026-03-01,Indomie Goreng,34
+2026-03-02,Indomie Goreng,25
+2026-03-03,Indomie Goreng,21
+2026-03-04,Indomie Goreng,30
+2026-03-05,Indomie Goreng,30
+2026-03-06,Indomie Goreng,23
+2026-03-07,Indomie Goreng,29
+2026-03-08,Indomie Goreng,24
+2026-03-09,Indomie Goreng,17
+2026-03-10,Indomie Goreng,25
+2026-03-11,Indomie Goreng,19
+2026-03-12,Indomie Goreng,20
+2026-03-13,Indomie Goreng,24
+2026-03-14,Indomie Goreng,36
+2026-03-15,Indomie Goreng,26
+2026-03-16,Indomie Goreng,24
+2026-03-17,Indomie Goreng,19
+2026-03-18,Indomie Goreng,22
+2026-03-19,Indomie Goreng,24
+2026-03-20,Indomie Goreng,25
+2026-03-21,Indomie Goreng,24
+2026-03-22,Indomie Goreng,32
+2026-03-23,Indomie Goreng,21
+2026-03-24,Indomie Goreng,26
+2026-03-25,Indomie Goreng,24
+2026-03-26,Indomie Goreng,27
+2026-03-27,Indomie Goreng,23
+2026-03-28,Indomie Goreng,29
+2026-03-29,Indomie Goreng,42
+2026-03-30,Indomie Goreng,23
+2026-03-31,Indomie Goreng,26
+2026-04-01,Indomie Goreng,25
+2026-04-02,Indomie Goreng,45
+2026-04-03,Indomie Goreng,26
+2026-04-04,Indomie Goreng,46
+2026-04-05,Indomie Goreng,37
+2026-04-06,Indomie Goreng,22
+2026-04-07,Indomie Goreng,31
+2026-04-08,Indomie Goreng,29
+2026-04-09,Indomie Goreng,21
+2026-04-10,Indomie Goreng,26
+2026-04-11,Indomie Goreng,36
+2026-04-12,Indomie Goreng,26
+2026-04-13,Indomie Goreng,24
+2026-04-14,Indomie Goreng,23
+2026-04-15,Indomie Goreng,23
+2026-04-16,Indomie Goreng,24
+2026-04-17,Indomie Goreng,17
+2026-04-18,Indomie Goreng,40
+2026-04-19,Indomie Goreng,25
+2026-04-20,Indomie Goreng,26
+2026-04-21,Indomie Goreng,24
+2026-04-22,Indomie Goreng,29
+2026-04-23,Indomie Goreng,21
+2026-04-24,Indomie Goreng,23
+2026-04-25,Indomie Goreng,36
+2026-04-26,Indomie Goreng,39
+2026-04-27,Indomie Goreng,22
+2026-04-28,Indomie Goreng,32
+2026-04-29,Indomie Goreng,22
+2026-04-30,Indomie Goreng,28
+2026-05-01,Indomie Goreng,34
+2026-05-02,Indomie Goreng,51
+2026-05-03,Indomie Goreng,44
+2026-05-04,Indomie Goreng,33
+2026-05-05,Indomie Goreng,29
+2026-05-06,Indomie Goreng,27
+2026-05-07,Indomie Goreng,19
+2026-05-08,Indomie Goreng,24
+2026-05-09,Indomie Goreng,39
+2026-05-10,Indomie Goreng,35
+2026-05-11,Indomie Goreng,21
+2026-05-12,Indomie Goreng,20
+2026-05-13,Indomie Goreng,30
+2026-05-14,Indomie Goreng,21
+2026-05-15,Indomie Goreng,17
+2026-05-16,Indomie Goreng,32
+2026-05-17,Indomie Goreng,33
+2026-05-18,Indomie Goreng,24
+2026-05-19,Indomie Goreng,22
+2026-05-20,Indomie Goreng,28
+2026-05-21,Indomie Goreng,28
+2026-05-22,Indomie Goreng,23
+2026-05-23,Indomie Goreng,33
+2026-05-24,Indomie Goreng,30
+2026-05-25,Indomie Goreng,21
+2026-05-26,Indomie Goreng,21
+2026-05-27,Indomie Goreng,22
+2026-05-28,Indomie Goreng,28
+2026-05-29,Indomie Goreng,19
+2026-05-30,Indomie Goreng,30
+2026-05-31,Indomie Goreng,38
+2026-06-01,Indomie Goreng,42
+2026-06-02,Indomie Goreng,41
+2026-06-03,Indomie Goreng,29
+2026-06-04,Indomie Goreng,34
+2026-06-05,Indomie Goreng,35
+2026-06-06,Indomie Goreng,39
+2026-06-07,Indomie Goreng,44
+2026-06-08,Indomie Goreng,30
+2026-06-09,Indomie Goreng,38
+2026-06-10,Indomie Goreng,30
+2026-06-11,Indomie Goreng,25
+2026-06-12,Indomie Goreng,29
+2026-06-13,Indomie Goreng,43
+2026-06-14,Indomie Goreng,26
+2026-06-15,Indomie Goreng,20
+2026-06-16,Indomie Goreng,28
+2026-06-17,Indomie Goreng,18
+2026-06-18,Indomie Goreng,30
+2026-06-19,Indomie Goreng,25
+2026-06-20,Indomie Goreng,35
+2026-06-21,Indomie Goreng,44
+2026-06-22,Indomie Goreng,28
+2026-06-23,Indomie Goreng,20
+2026-06-24,Indomie Goreng,8
+2026-06-25,Indomie Goreng,23
+2026-06-26,Indomie Goreng,32
+2026-06-27,Indomie Goreng,31
+2026-06-28,Indomie Goreng,29
+2026-06-29,Indomie Goreng,21
+2026-06-30,Indomie Goreng,31
+2026-07-01,Indomie Goreng,46
+2026-07-02,Indomie Goreng,25
+2026-07-03,Indomie Goreng,23
+2026-07-04,Indomie Goreng,49
+2026-07-05,Indomie Goreng,33
+2026-07-06,Indomie Goreng,30
+2026-07-07,Indomie Goreng,17
+2026-07-08,Indomie Goreng,24
+2026-01-10,Tepung Terigu 1kg,2
+2026-01-11,Tepung Terigu 1kg,2
+2026-01-12,Tepung Terigu 1kg,2
+2026-01-13,Tepung Terigu 1kg,4
+2026-01-14,Tepung Terigu 1kg,5
+2026-01-15,Tepung Terigu 1kg,4
+2026-01-16,Tepung Terigu 1kg,0
+2026-01-17,Tepung Terigu 1kg,7
+2026-01-18,Tepung Terigu 1kg,3
+2026-01-19,Tepung Terigu 1kg,2
+2026-01-20,Tepung Terigu 1kg,4
+2026-01-21,Tepung Terigu 1kg,2
+2026-01-22,Tepung Terigu 1kg,2
+2026-01-23,Tepung Terigu 1kg,2
+2026-01-24,Tepung Terigu 1kg,2
+2026-01-25,Tepung Terigu 1kg,3
+2026-01-26,Tepung Terigu 1kg,6
+2026-01-27,Tepung Terigu 1kg,5
+2026-01-28,Tepung Terigu 1kg,4
+2026-01-29,Tepung Terigu 1kg,5
+2026-01-30,Tepung Terigu 1kg,1
+2026-01-31,Tepung Terigu 1kg,4
+2026-02-01,Tepung Terigu 1kg,4
+2026-02-02,Tepung Terigu 1kg,4
+2026-02-03,Tepung Terigu 1kg,3
+2026-02-04,Tepung Terigu 1kg,3
+2026-02-05,Tepung Terigu 1kg,3
+2026-02-06,Tepung Terigu 1kg,2
+2026-02-07,Tepung Terigu 1kg,2
+2026-02-08,Tepung Terigu 1kg,3
+2026-02-09,Tepung Terigu 1kg,5
+2026-02-10,Tepung Terigu 1kg,2
+2026-02-11,Tepung Terigu 1kg,3
+2026-02-12,Tepung Terigu 1kg,3
+2026-02-13,Tepung Terigu 1kg,4
+2026-02-14,Tepung Terigu 1kg,0
+2026-02-15,Tepung Terigu 1kg,2
+2026-02-16,Tepung Terigu 1kg,6
+2026-02-17,Tepung Terigu 1kg,4
+2026-02-18,Tepung Terigu 1kg,5
+2026-02-19,Tepung Terigu 1kg,2
+2026-02-20,Tepung Terigu 1kg,1
+2026-02-21,Tepung Terigu 1kg,5
+2026-02-22,Tepung Terigu 1kg,5
+2026-02-23,Tepung Terigu 1kg,2
+2026-02-24,Tepung Terigu 1kg,5
+2026-02-25,Tepung Terigu 1kg,5
+2026-02-26,Tepung Terigu 1kg,3
+2026-02-27,Tepung Terigu 1kg,2
+2026-02-28,Tepung Terigu 1kg,5
+2026-03-01,Tepung Terigu 1kg,6
+2026-03-02,Tepung Terigu 1kg,10
+2026-03-03,Tepung Terigu 1kg,4
+2026-03-04,Tepung Terigu 1kg,3
+2026-03-05,Tepung Terigu 1kg,3
+2026-03-06,Tepung Terigu 1kg,1
+2026-03-07,Tepung Terigu 1kg,7
+2026-03-08,Tepung Terigu 1kg,5
+2026-03-09,Tepung Terigu 1kg,0
+2026-03-10,Tepung Terigu 1kg,3
+2026-03-11,Tepung Terigu 1kg,8
+2026-03-12,Tepung Terigu 1kg,3
+2026-03-13,Tepung Terigu 1kg,3
+2026-03-14,Tepung Terigu 1kg,7
+2026-03-15,Tepung Terigu 1kg,4
+2026-03-16,Tepung Terigu 1kg,1
+2026-03-17,Tepung Terigu 1kg,5
+2026-03-18,Tepung Terigu 1kg,5
+2026-03-19,Tepung Terigu 1kg,2
+2026-03-20,Tepung Terigu 1kg,4
+2026-03-21,Tepung Terigu 1kg,3
+2026-03-22,Tepung Terigu 1kg,4
+2026-03-23,Tepung Terigu 1kg,3
+2026-03-24,Tepung Terigu 1kg,3
+2026-03-25,Tepung Terigu 1kg,3
+2026-03-26,Tepung Terigu 1kg,1
+2026-03-27,Tepung Terigu 1kg,4
+2026-03-28,Tepung Terigu 1kg,1
+2026-03-29,Tepung Terigu 1kg,6
+2026-03-30,Tepung Terigu 1kg,2
+2026-03-31,Tepung Terigu 1kg,1
+2026-04-01,Tepung Terigu 1kg,3
+2026-04-02,Tepung Terigu 1kg,3
+2026-04-03,Tepung Terigu 1kg,3
+2026-04-04,Tepung Terigu 1kg,3
+2026-04-05,Tepung Terigu 1kg,4
+2026-04-06,Tepung Terigu 1kg,3
+2026-04-07,Tepung Terigu 1kg,2
+2026-04-08,Tepung Terigu 1kg,3
+2026-04-09,Tepung Terigu 1kg,3
+2026-04-10,Tepung Terigu 1kg,3
+2026-04-11,Tepung Terigu 1kg,6
+2026-04-12,Tepung Terigu 1kg,0
+2026-04-13,Tepung Terigu 1kg,3
+2026-04-14,Tepung Terigu 1kg,3
+2026-04-15,Tepung Terigu 1kg,3
+2026-04-16,Tepung Terigu 1kg,2
+2026-04-17,Tepung Terigu 1kg,5
+2026-04-18,Tepung Terigu 1kg,2
+2026-04-19,Tepung Terigu 1kg,2
+2026-04-20,Tepung Terigu 1kg,3
+2026-04-21,Tepung Terigu 1kg,0
+2026-04-22,Tepung Terigu 1kg,3
+2026-04-23,Tepung Terigu 1kg,2
+2026-04-24,Tepung Terigu 1kg,2
+2026-04-25,Tepung Terigu 1kg,5
+2026-04-26,Tepung Terigu 1kg,1
+2026-04-27,Tepung Terigu 1kg,5
+2026-04-28,Tepung Terigu 1kg,3
+2026-04-29,Tepung Terigu 1kg,4
+2026-04-30,Tepung Terigu 1kg,3
+2026-05-01,Tepung Terigu 1kg,9
+2026-05-02,Tepung Terigu 1kg,3
+2026-05-03,Tepung Terigu 1kg,7
+2026-05-04,Tepung Terigu 1kg,2
+2026-05-05,Tepung Terigu 1kg,6
+2026-05-06,Tepung Terigu 1kg,4
+2026-05-07,Tepung Terigu 1kg,3
+2026-05-08,Tepung Terigu 1kg,1
+2026-05-09,Tepung Terigu 1kg,6
+2026-05-10,Tepung Terigu 1kg,0
+2026-05-11,Tepung Terigu 1kg,5
+2026-05-12,Tepung Terigu 1kg,3
+2026-05-13,Tepung Terigu 1kg,2
+2026-05-14,Tepung Terigu 1kg,0
+2026-05-15,Tepung Terigu 1kg,4
+2026-05-16,Tepung Terigu 1kg,3
+2026-05-17,Tepung Terigu 1kg,4
+2026-05-18,Tepung Terigu 1kg,1
+2026-05-19,Tepung Terigu 1kg,0
+2026-05-20,Tepung Terigu 1kg,3
+2026-05-21,Tepung Terigu 1kg,1
+2026-05-22,Tepung Terigu 1kg,2
+2026-05-23,Tepung Terigu 1kg,2
+2026-05-24,Tepung Terigu 1kg,5
+2026-05-25,Tepung Terigu 1kg,2
+2026-05-26,Tepung Terigu 1kg,2
+2026-05-27,Tepung Terigu 1kg,2
+2026-05-28,Tepung Terigu 1kg,4
+2026-05-29,Tepung Terigu 1kg,3
+2026-05-30,Tepung Terigu 1kg,2
+2026-05-31,Tepung Terigu 1kg,5
+2026-06-01,Tepung Terigu 1kg,1
+2026-06-02,Tepung Terigu 1kg,1
+2026-06-03,Tepung Terigu 1kg,2
+2026-06-04,Tepung Terigu 1kg,2
+2026-06-05,Tepung Terigu 1kg,2
+2026-06-06,Tepung Terigu 1kg,4
+2026-06-07,Tepung Terigu 1kg,3
+2026-06-08,Tepung Terigu 1kg,1
+2026-06-09,Tepung Terigu 1kg,2
+2026-06-10,Tepung Terigu 1kg,7
+2026-06-11,Tepung Terigu 1kg,2
+2026-06-12,Tepung Terigu 1kg,1
+2026-06-13,Tepung Terigu 1kg,0
+2026-06-14,Tepung Terigu 1kg,8
+2026-06-15,Tepung Terigu 1kg,4
+2026-06-16,Tepung Terigu 1kg,4
+2026-06-17,Tepung Terigu 1kg,2
+2026-06-18,Tepung Terigu 1kg,4
+2026-06-19,Tepung Terigu 1kg,5
+2026-06-20,Tepung Terigu 1kg,2
+2026-06-21,Tepung Terigu 1kg,5
+2026-06-22,Tepung Terigu 1kg,3
+2026-06-23,Tepung Terigu 1kg,3
+2026-06-24,Tepung Terigu 1kg,1
+2026-06-25,Tepung Terigu 1kg,3
+2026-06-26,Tepung Terigu 1kg,3
+2026-06-27,Tepung Terigu 1kg,4
+2026-06-28,Tepung Terigu 1kg,3
+2026-06-29,Tepung Terigu 1kg,5
+2026-06-30,Tepung Terigu 1kg,1
+2026-07-01,Tepung Terigu 1kg,5
+2026-07-02,Tepung Terigu 1kg,2
+2026-07-03,Tepung Terigu 1kg,4
+2026-07-04,Tepung Terigu 1kg,7
+2026-07-05,Tepung Terigu 1kg,4
+2026-07-06,Tepung Terigu 1kg,3
+2026-07-07,Tepung Terigu 1kg,1
+2026-07-08,Tepung Terigu 1kg,0
+2026-01-10,Kopi Sachet,19
+2026-01-11,Kopi Sachet,21
+2026-01-12,Kopi Sachet,11
+2026-01-13,Kopi Sachet,18
+2026-01-14,Kopi Sachet,18
+2026-01-15,Kopi Sachet,14
+2026-01-16,Kopi Sachet,19
+2026-01-17,Kopi Sachet,17
+2026-01-18,Kopi Sachet,14
+2026-01-19,Kopi Sachet,19
+2026-01-20,Kopi Sachet,11
+2026-01-21,Kopi Sachet,15
+2026-01-22,Kopi Sachet,18
+2026-01-23,Kopi Sachet,17
+2026-01-24,Kopi Sachet,17
+2026-01-25,Kopi Sachet,29
+2026-01-26,Kopi Sachet,17
+2026-01-27,Kopi Sachet,15
+2026-01-28,Kopi Sachet,15
+2026-01-29,Kopi Sachet,12
+2026-01-30,Kopi Sachet,20
+2026-01-31,Kopi Sachet,21
+2026-02-01,Kopi Sachet,30
+2026-02-02,Kopi Sachet,17
+2026-02-03,Kopi Sachet,18
+2026-02-04,Kopi Sachet,19
+2026-02-05,Kopi Sachet,22
+2026-02-06,Kopi Sachet,14
+2026-02-07,Kopi Sachet,14
+2026-02-08,Kopi Sachet,26
+2026-02-09,Kopi Sachet,12
+2026-02-10,Kopi Sachet,15
+2026-02-11,Kopi Sachet,18
+2026-02-12,Kopi Sachet,12
+2026-02-13,Kopi Sachet,13
+2026-02-14,Kopi Sachet,20
+2026-02-15,Kopi Sachet,17
+2026-02-16,Kopi Sachet,15
+2026-02-17,Kopi Sachet,20
+2026-02-18,Kopi Sachet,14
+2026-02-19,Kopi Sachet,16
+2026-02-20,Kopi Sachet,20
+2026-02-21,Kopi Sachet,16
+2026-02-22,Kopi Sachet,17
+2026-02-23,Kopi Sachet,12
+2026-02-24,Kopi Sachet,17
+2026-02-25,Kopi Sachet,11
+2026-02-26,Kopi Sachet,12
+2026-02-27,Kopi Sachet,28
+2026-02-28,Kopi Sachet,14
+2026-03-01,Kopi Sachet,22
+2026-03-02,Kopi Sachet,20
+2026-03-03,Kopi Sachet,23
+2026-03-04,Kopi Sachet,19
+2026-03-05,Kopi Sachet,14
+2026-03-06,Kopi Sachet,11
+2026-03-07,Kopi Sachet,31
+2026-03-08,Kopi Sachet,21
+2026-03-09,Kopi Sachet,14
+2026-03-10,Kopi Sachet,15
+2026-03-11,Kopi Sachet,14
+2026-03-12,Kopi Sachet,20
+2026-03-13,Kopi Sachet,13
+2026-03-14,Kopi Sachet,22
+2026-03-15,Kopi Sachet,12
+2026-03-16,Kopi Sachet,9
+2026-03-17,Kopi Sachet,15
+2026-03-18,Kopi Sachet,14
+2026-03-19,Kopi Sachet,16
+2026-03-20,Kopi Sachet,15
+2026-03-21,Kopi Sachet,25
+2026-03-22,Kopi Sachet,19
+2026-03-23,Kopi Sachet,11
+2026-03-24,Kopi Sachet,17
+2026-03-25,Kopi Sachet,17
+2026-03-26,Kopi Sachet,12
+2026-03-27,Kopi Sachet,15
+2026-03-28,Kopi Sachet,22
+2026-03-29,Kopi Sachet,19
+2026-03-30,Kopi Sachet,15
+2026-03-31,Kopi Sachet,11
+2026-04-01,Kopi Sachet,22
+2026-04-02,Kopi Sachet,19
+2026-04-03,Kopi Sachet,15
+2026-04-04,Kopi Sachet,23
+2026-04-05,Kopi Sachet,17
+2026-04-06,Kopi Sachet,19
+2026-04-07,Kopi Sachet,12
+2026-04-08,Kopi Sachet,18
+2026-04-09,Kopi Sachet,20
+2026-04-10,Kopi Sachet,12
+2026-04-11,Kopi Sachet,16
+2026-04-12,Kopi Sachet,25
+2026-04-13,Kopi Sachet,20
+2026-04-14,Kopi Sachet,14
+2026-04-15,Kopi Sachet,13
+2026-04-16,Kopi Sachet,21
+2026-04-17,Kopi Sachet,16
+2026-04-18,Kopi Sachet,23
+2026-04-19,Kopi Sachet,29
+2026-04-20,Kopi Sachet,16
+2026-04-21,Kopi Sachet,19
+2026-04-22,Kopi Sachet,11
+2026-04-23,Kopi Sachet,10
+2026-04-24,Kopi Sachet,18
+2026-04-25,Kopi Sachet,15
+2026-04-26,Kopi Sachet,32
+2026-04-27,Kopi Sachet,6
+2026-04-28,Kopi Sachet,13
+2026-04-29,Kopi Sachet,15
+2026-04-30,Kopi Sachet,17
+2026-05-01,Kopi Sachet,18
+2026-05-02,Kopi Sachet,18
+2026-05-03,Kopi Sachet,24
+2026-05-04,Kopi Sachet,25
+2026-05-05,Kopi Sachet,26
+2026-05-06,Kopi Sachet,12
+2026-05-07,Kopi Sachet,18
+2026-05-08,Kopi Sachet,20
+2026-05-09,Kopi Sachet,25
+2026-05-10,Kopi Sachet,14
+2026-05-11,Kopi Sachet,20
+2026-05-12,Kopi Sachet,20
+2026-05-13,Kopi Sachet,14
+2026-05-14,Kopi Sachet,14
+2026-05-15,Kopi Sachet,16
+2026-05-16,Kopi Sachet,21
+2026-05-17,Kopi Sachet,22
+2026-05-18,Kopi Sachet,17
+2026-05-19,Kopi Sachet,14
+2026-05-20,Kopi Sachet,14
+2026-05-21,Kopi Sachet,19
+2026-05-22,Kopi Sachet,18
+2026-05-23,Kopi Sachet,19
+2026-05-24,Kopi Sachet,25
+2026-05-25,Kopi Sachet,12
+2026-05-26,Kopi Sachet,14
+2026-05-27,Kopi Sachet,12
+2026-05-28,Kopi Sachet,9
+2026-05-29,Kopi Sachet,12
+2026-05-30,Kopi Sachet,23
+2026-05-31,Kopi Sachet,25
+2026-06-01,Kopi Sachet,12
+2026-06-02,Kopi Sachet,22
+2026-06-03,Kopi Sachet,19
+2026-06-04,Kopi Sachet,18
+2026-06-05,Kopi Sachet,15
+2026-06-06,Kopi Sachet,24
+2026-06-07,Kopi Sachet,21
+2026-06-08,Kopi Sachet,11
+2026-06-09,Kopi Sachet,17
+2026-06-10,Kopi Sachet,20
+2026-06-11,Kopi Sachet,19
+2026-06-12,Kopi Sachet,10
+2026-06-13,Kopi Sachet,24
+2026-06-14,Kopi Sachet,15
+2026-06-15,Kopi Sachet,16
+2026-06-16,Kopi Sachet,8
+2026-06-17,Kopi Sachet,21
+2026-06-18,Kopi Sachet,17
+2026-06-19,Kopi Sachet,15
+2026-06-20,Kopi Sachet,24
+2026-06-21,Kopi Sachet,17
+2026-06-22,Kopi Sachet,12
+2026-06-23,Kopi Sachet,19
+2026-06-24,Kopi Sachet,11
+2026-06-25,Kopi Sachet,13
+2026-06-26,Kopi Sachet,15
+2026-06-27,Kopi Sachet,22
+2026-06-28,Kopi Sachet,19
+2026-06-29,Kopi Sachet,16
+2026-06-30,Kopi Sachet,11
+2026-07-01,Kopi Sachet,19
+2026-07-02,Kopi Sachet,18
+2026-07-03,Kopi Sachet,18
+2026-07-04,Kopi Sachet,22
+2026-07-05,Kopi Sachet,28
+2026-07-06,Kopi Sachet,12
+2026-07-07,Kopi Sachet,14
+2026-07-08,Kopi Sachet,11

@@ -1,0 +1,24 @@
+{
+  "sumber_transkrip": "transcript_20260711_215251.json",
+  "raw_text": "Telur Ayam 1 Kg 27 ribu, Indomie Kari Ayam 10 bungkus 30 ribu.",
+  "items": [
+    {
+      "item": "telur ayam",
+      "qty": 1,
+      "harga": 27000,
+      "produk_katalog": "Telur Ayam 1kg",
+      "skor_cocok": 1.0,
+      "status_cocok": "yakin",
+      "sumber_harga": "ucapan"
+    },
+    {
+      "item": "indomie kari ayam",
+      "qty": 10,
+      "harga": 30000,
+      "produk_katalog": "Indomie Kari Ayam",
+      "skor_cocok": 1.0,
+      "status_cocok": "yakin",
+      "sumber_harga": "ucapan"
+    }
+  ]
+}

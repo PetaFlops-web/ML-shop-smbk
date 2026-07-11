@@ -1,0 +1,50 @@
+{
+  "sumber_transkrip": "transcript_20260711_215253.json",
+  "raw_text": "Tadi Laku Beras Setra Ramos Satu Karung, Kopi Kapal Api, Lima Saset, Le Mineral, Dua Botol, Enam Ribu.",
+  "items": [
+    {
+      "item": "beras setra Ramos",
+      "qty": 1,
+      "harga": 66699.0,
+      "produk_katalog": "Beras Setra Ramos 5kg",
+      "skor_cocok": 1.0,
+      "status_cocok": "yakin",
+      "sumber_harga": "katalog"
+    },
+    {
+      "item": "kopi kapal api",
+      "qty": 1,
+      "harga": 10825.0,
+      "produk_katalog": "Kopi Kapal Api Sachet 10pcs",
+      "skor_cocok": 1.0,
+      "status_cocok": "yakin",
+      "sumber_harga": "katalog"
+    },
+    {
+      "item": "le mineral",
+      "qty": 5,
+      "harga": 3910.0,
+      "produk_katalog": "Air Mineral Le Minerale 600ml",
+      "skor_cocok": 1.0,
+      "status_cocok": "yakin",
+      "sumber_harga": "katalog"
+    },
+    {
+      "item": "deterjen (pack)",
+      "qty": 2,
+      "harga": 18183.0,
+      "produk_katalog": "Deterjen Attack 800g",
+      "skor_cocok": 0.8,
+      "status_cocok": "yakin",
+      "sumber_harga": "katalog"
+    },
+    {
+      "item": "enam ribu",
+      "qty": 1,
+      "harga": null,
+      "produk_katalog": null,
+      "skor_cocok": 0.573,
+      "status_cocok": "tidak_ketemu"
+    }
+  ]
+}

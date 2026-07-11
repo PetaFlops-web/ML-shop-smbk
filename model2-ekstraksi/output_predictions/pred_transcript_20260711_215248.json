@@ -1,0 +1,25 @@
+{
+  "sumber_transkrip": "transcript_20260711_215248.json",
+  "raw_text": "Gula Pasir 2 kilo 28 ribu sama telur ayam 1 kilo.",
+  "items": [
+    {
+      "item": "gula pasir",
+      "qty": 2,
+      "harga": 28000,
+      "produk_katalog": "Gula Pasir Gulaku 1kg",
+      "skor_cocok": 1.0,
+      "status_cocok": "perlu_konfirmasi",
+      "kandidat_lain": "Gula Pasir Gunung Mas 1kg",
+      "sumber_harga": "ucapan"
+    },
+    {
+      "item": "telur ayam",
+      "qty": 1,
+      "harga": 29116.0,
+      "produk_katalog": "Telur Ayam 1kg",
+      "skor_cocok": 1.0,
+      "status_cocok": "yakin",
+      "sumber_harga": "katalog"
+    }
+  ]
+}

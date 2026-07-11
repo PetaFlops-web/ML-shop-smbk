@@ -1,0 +1,65 @@
+[
+  {
+    "nama_produk": "Telur 1kg",
+    "stok_saat_ini": 15.0,
+    "prediksi_terjual_7hari": 39.3,
+    "rata_rata_per_hari": 5.61,
+    "perkiraan_stok_habis_dalam_hari": 2.7,
+    "status": "PERLU RESTOCK",
+    "saran_qty_restock": 36
+  },
+  {
+    "nama_produk": "Minyak Goreng 1L",
+    "stok_saat_ini": 30.0,
+    "prediksi_terjual_7hari": 56.1,
+    "rata_rata_per_hari": 8.01,
+    "perkiraan_stok_habis_dalam_hari": 3.7,
+    "status": "PERLU RESTOCK",
+    "saran_qty_restock": 43
+  },
+  {
+    "nama_produk": "Indomie Goreng",
+    "stok_saat_ini": 100.0,
+    "prediksi_terjual_7hari": 177.0,
+    "rata_rata_per_hari": 25.29,
+    "perkiraan_stok_habis_dalam_hari": 4.0,
+    "status": "PERLU RESTOCK",
+    "saran_qty_restock": 128
+  },
+  {
+    "nama_produk": "Beras 5kg",
+    "stok_saat_ini": 20.0,
+    "prediksi_terjual_7hari": 31.3,
+    "rata_rata_per_hari": 4.47,
+    "perkiraan_stok_habis_dalam_hari": 4.5,
+    "status": "PERLU RESTOCK",
+    "saran_qty_restock": 21
+  },
+  {
+    "nama_produk": "Kopi Sachet",
+    "stok_saat_ini": 80.0,
+    "prediksi_terjual_7hari": 122.6,
+    "rata_rata_per_hari": 17.52,
+    "perkiraan_stok_habis_dalam_hari": 4.6,
+    "status": "PERLU RESTOCK",
+    "saran_qty_restock": 78
+  },
+  {
+    "nama_produk": "Gula Pasir 1kg",
+    "stok_saat_ini": 25.0,
+    "prediksi_terjual_7hari": 35.4,
+    "rata_rata_per_hari": 5.06,
+    "perkiraan_stok_habis_dalam_hari": 4.9,
+    "status": "PERLU RESTOCK",
+    "saran_qty_restock": 21
+  },
+  {
+    "nama_produk": "Tepung Terigu 1kg",
+    "stok_saat_ini": 20.0,
+    "prediksi_terjual_7hari": 20.8,
+    "rata_rata_per_hari": 2.98,
+    "perkiraan_stok_habis_dalam_hari": 6.7,
+    "status": "PERLU RESTOCK",
+    "saran_qty_restock": 7
+  }
+]

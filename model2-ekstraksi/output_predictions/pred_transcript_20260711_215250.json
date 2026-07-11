@@ -1,0 +1,24 @@
+{
+  "sumber_transkrip": "transcript_20260711_215250.json",
+  "raw_text": "Minyak Goreng Bimoli 1L, Rp19.000, Sama Gula Pasir Rp2.000",
+  "items": [
+    {
+      "item": "minyak goreng Bimoli 1L",
+      "qty": 1,
+      "harga": 19309.0,
+      "produk_katalog": "Minyak Goreng Bimoli 1L",
+      "skor_cocok": 1.0,
+      "status_cocok": "yakin",
+      "sumber_harga": "katalog"
+    },
+    {
+      "item": "sama gula pasir",
+      "qty": 1,
+      "harga": 2000,
+      "produk_katalog": "Gula Pasir Gunung Mas 1kg",
+      "skor_cocok": 0.857,
+      "status_cocok": "yakin",
+      "sumber_harga": "ucapan"
+    }
+  ]
+}
