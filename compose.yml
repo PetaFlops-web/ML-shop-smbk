@@ -6,7 +6,9 @@ services:
       - "8000:8000"
     volumes:
       - whisper_data:/app/output_transcriptions
+      - predictions_data:/app/output_predictions
       - whisper_model_cache:/root/.cache/whisper
+      - hf_cache:/root/.cache/huggingface
     environment:
       - TZ=Asia/Jakarta
     restart: unless-stopped
@@ -14,3 +16,5 @@ services:
 volumes:
   whisper_data:
   whisper_model_cache:
+  predictions_data:
+  hf_cache:

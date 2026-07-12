@@ -7,3 +7,6 @@ numpy
 soundfile
 torch
 torchaudio
+transformers
+peft
+accelerate
