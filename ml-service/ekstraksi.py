@@ -6,7 +6,6 @@ from pathlib import Path
 BASE_DIR = Path(__file__).resolve().parent
 BASE_MODEL = "Qwen/Qwen2.5-0.5B-Instruct"
 ADAPTER_DIR = BASE_DIR / "qwen-ekstraksi-lora"
-OUTPUT_DIR = BASE_DIR / "output_predictions"
 PRODUCT_DICTIONARY = BASE_DIR / "product_dictionary.json"
 PRODUCT_MASTER = BASE_DIR / "produk_master.csv"
 
@@ -22,27 +21,6 @@ _alias = None
 _harga = None
 _tokenizer = None
 _model = None
-
-
-def get_transcript_names(data) -> list[str]:
-    if isinstance(data, dict):
-        for key in ("transcripts", "files", "data", "results"):
-            if key in data:
-                data = data[key]
-                break
-    hasil = []
-    if isinstance(data, list):
-        for item in data:
-            if isinstance(item, str):
-                hasil.append(Path(item).name)
-            elif isinstance(item, dict):
-                for key in ("filename", "file", "name", "json_file"):
-                    value = item.get(key)
-                    if isinstance(value, str):
-                        hasil.append(Path(value).name)
-                        break
-    return hasil
-
 
 def _get_alias() -> dict[str, str]:
     global _alias
@@ -159,27 +137,16 @@ def enrich_items(items: list) -> list:
 
 def extract_transaction(teks: str, nama_sumber: str = "manual") -> dict:
     teks = teks.strip()
+
     if not teks:
         raise ValueError("Teks transkrip kosong")
+    
     items = enrich_items(predict(teks))
-    hasil = {"sumber_transkrip": nama_sumber, "raw_text": teks, "items": items}
-    OUTPUT_DIR.mkdir(exist_ok=True)
-    tujuan = OUTPUT_DIR / f"pred_{Path(nama_sumber).stem}.json"
-    tujuan.write_text(json.dumps(hasil, indent=2, ensure_ascii=False), encoding="utf-8")
-    hasil["json_file"] = str(tujuan)
+
+    hasil = {
+        "sumber": nama_sumber,
+        "transkrip": teks,
+        "items": items,
+    }
+
     return hasil
-
-
-def read_prediction(filename: str) -> dict:
-    path = OUTPUT_DIR / Path(filename).name
-    if not path.exists():
-        raise FileNotFoundError(filename)
-    return json.loads(path.read_text(encoding="utf-8"))
-
-
-def list_predictions() -> list[dict]:
-    OUTPUT_DIR.mkdir(exist_ok=True)
-    return [
-        {"filename": p.name, "path": str(p), "size_kb": round(p.stat().st_size / 1024, 2)}
-        for p in sorted(OUTPUT_DIR.glob("pred_*.json"), reverse=True)
-    ]

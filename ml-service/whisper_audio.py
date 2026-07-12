@@ -3,14 +3,7 @@ import librosa
 import numpy as np
 import os
 import re
-from datetime import datetime
-import json
 
-
-output_dir = "./output_transcriptions"
-
-if not os.path.exists(output_dir):
-    os.makedirs(output_dir)
 
 # load model whisper
 # Ukuran bisa diatur lewat environment variable WHISPER_MODEL (small/medium/large).
@@ -53,21 +46,10 @@ def transcribe_audio(file_path: str) -> dict:
         avg_logprob = 0.0
         no_speech_prob = 0.0
 
-    # Save the transcription to a text file
-    timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-    json_filename = f"transcript_{timestamp}.json"
-    json_path = os.path.join(output_dir, json_filename)
-
     output_data = {
         "text"      : clean_text,
         "confidence": round(avg_logprob, 4),
         "no_speech" : round(no_speech_prob, 4),
     }
-    
-    with open(json_path, "w", encoding="utf-8") as f:
-        # Save the output data as JSON
-        json.dump(output_data, f, ensure_ascii=False, indent=4)
-    
-    output_data["json_file"] = json_path
 
     return output_data

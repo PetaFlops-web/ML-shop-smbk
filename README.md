@@ -25,13 +25,7 @@ docker compose down
 
 ### `POST /transcribe` — Audio → Transcription + Extraction
 
-Upload an audio file. Backend will:
-
-1. transcribe the audio with Whisper,
-2. save the transcript to `output_transcriptions/`,
-3. extract transaction items with Qwen+LoRA,
-4. save the extraction result to `output_predictions/`,
-5. return the extraction result.
+Upload an audio file. The backend transcribes it with Whisper then extracts transaction items with Qwen+LoRA, all in one call.
 
 **Supported formats:** `.wav`, `.mp3`, `.flac`, `.m4a`
 
@@ -68,63 +62,9 @@ curl -X POST http://127.0.0.1:8000/transcribe \
 | `items` | Extracted transaction items |
 | `json_file` | Path to saved extraction JSON file |
 
-### `GET /transcripts` — List Transcripts
-
-```bash
-curl http://127.0.0.1:8000/transcripts
-```
-
-**Response:**
-
-```json
-{
-  "total": 1,
-  "files": [
-    {
-      "filename": "transcript_20260710_214328.json",
-      "path": "./output_transcriptions/transcript_20260710_214328.json",
-      "size_kb": 0.12
-    }
-  ]
-}
-```
-
-### `GET /transcripts/{filename}` — Transcript Detail
-
-```bash
-curl http://127.0.0.1:8000/transcripts/transcript_20260710_214328.json
-```
-
-### `GET /predictions` — List Extractions
-
-```bash
-curl http://127.0.0.1:8000/predictions
-```
-
-**Response:**
-
-```json
-{
-  "total": 1,
-  "files": [
-    {
-      "filename": "pred_recording.json",
-      "path": "/app/output_predictions/pred_recording.json",
-      "size_kb": 0.42
-    }
-  ]
-}
-```
-
-### `GET /predictions/{filename}` — Extraction Detail
-
-```bash
-curl http://127.0.0.1:8000/predictions/pred_recording.json
-```
-
 ## Microphone Recording Test (Optional)
 
-`test_mic.py` — records 10 seconds → sends to `/transcribe` → displays `/predictions/{filename}` and `/predictions`.
+`test_mic.py` — records 10 seconds → sends to `/transcribe`.
 
 ```bash
 pip install sounddevice scipy requests
@@ -146,6 +86,5 @@ python test_mic.py
 │   ├── product_dictionary.json  # Product catalog + aliases
 │   ├── produk_master.csv        # Product selling prices
 │   ├── requirements.txt
-│   ├── output_transcriptions/   # Transcription results (Model 1)
-│   └── output_predictions/      # Extraction results (Model 2)
+│   └── output_predictions/      # Extraction results
 ```
