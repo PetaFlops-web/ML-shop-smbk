@@ -1,0 +1,18 @@
+{
+  "surv_features": [
+    "log_quantity",
+    "UnitPrice",
+    "log_line_total",
+    "log_basket_size",
+    "basket_unique",
+    "log_basket_value",
+    "PurchaseNumber",
+    "DaysSincePrev",
+    "Avg_Days_Between",
+    "Month",
+    "DayOfWeek"
+  ],
+  "study_end": "2011-12-09 12:50:00",
+  "c_index": 0.7014345676416572,
+  "description": "CoxPH model for predicting time-to-next-purchase"
+}

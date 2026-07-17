@@ -1,7 +1,11 @@
 services:
-  whisper-api:
-    build: ./ml-service
-    container_name: ml_whisper_service
+  ml-service:
+    build:
+      context: ./ml-service
+      # cache_from: (hilangin aja komentarnya kalo ga mau build image baru)
+      #   - ml-service:latest (sama ini)
+    image: ml-service:latest
+    container_name: ml_service
     ports:
       - "8000:8000"
     volumes:

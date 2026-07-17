@@ -1,7 +1,10 @@
+# Ignore Visual Studio Code workspace settings
 .vscode
-ml-service/__pycache__
-ml-service/.pytest_cache
-ml-service/.mypy_cache
+
+# Ignore Cache files
+ml-service/app/__pycache__
+ml-service/app/services/__pycache__
+
 
 *.wav
 *.mp3

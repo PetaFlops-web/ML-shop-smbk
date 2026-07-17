@@ -10,3 +10,4 @@ torchaudio
 transformers
 peft
 accelerate
+pandas
