@@ -1,0 +1,22 @@
+{
+  "features": [
+    "month",
+    "day_of_week",
+    "day_of_month",
+    "quarter",
+    "sales_lag_1",
+    "sales_lag_2",
+    "sales_lag_3",
+    "sales_lag_7",
+    "sales_lag_14",
+    "sales_lag_30",
+    "sales_roll_mean_7",
+    "sales_roll_mean_14",
+    "sales_roll_mean_30",
+    "sales_ewma_7",
+    "sales_ewma_30"
+  ],
+  "history_days": 90,
+  "revision": 1,
+  "description": "RandomForest daily inventory sales forecast"
+}
